@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            //Cole Walker
+            // Cole Walker
+
+            Console.WriteLine("Parkside CI");
             Console.WriteLine("Hello, World!");
             Console.WriteLine("This will print on a new line");
 
@@ -12,6 +14,7 @@
 
             Console.Write("Hello World!");
             Console.Write("This will print on the same line");
+
         }
     }
 }
